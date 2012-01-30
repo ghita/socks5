@@ -2,7 +2,7 @@
     CONSOLE APPLICATION : BoostSocks5Server Project Overview
 ========================================================================
 
-AppWizard has created this BoostSocks5Server application for you.
+ AppWizard has created this BoostSocks5Server application for you.
 
 This file contains a summary of what you will find in each of the files that
 make up your BoostSocks5Server application.
